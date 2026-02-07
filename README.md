@@ -12,3 +12,5 @@ PBIX File Link : https://drive.google.com/file/d/1KEayyK1aGug5y58kwaJ1OErgDm-c4y
 
 PPT File Link :
 https://docs.google.com/presentation/d/1ejBg00ZYTwUUR2rs6yPb7_12UGDJIhnbNEszsqpSks4/edit?usp=sharing
+git clone <https://github.com/RushilAbhi/UNP-Project-with-PowerBI-Covid/edit/main/README.md>
+cd <UNP-Project-with-PowerBI-Covid>
